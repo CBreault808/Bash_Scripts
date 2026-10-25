@@ -7,4 +7,4 @@
 
 2) new_folder.sh - This script was designed to automatically create and rename new directories in the local file system. It first creates the directory with a temporary placeholder name, then prompts
    user to enter a new name for it. The script then moves the user out of the directory, applies the new name, and then moves the user back in. In the event that the user does not input a new name for
-   the directory, the script applies a default name "New Directory" along with a counter to avoid overwriting any existing folders. Note: to execute this script, use the command `source ./ new_folder.sh`
+   the directory, the script applies a default name "New Directory" along with a counter to avoid overwriting any existing folders. Note: to execute this script, use the command `source ./new_folder.sh`
