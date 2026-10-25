@@ -33,3 +33,5 @@ mkcd_rename() {
 
     echo "Directory renamed to: $final_name"
 }
+
+mkcd_rename
